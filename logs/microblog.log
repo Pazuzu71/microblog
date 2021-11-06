@@ -80,3 +80,4 @@ jinja2.exceptions.UndefinedError: 'form' is undefined
 2021-11-05 17:50:20,483 INFO: Microblog startup [in /home/pazuzu71/microblog/app/__init__.py:45]
 2021-11-05 18:30:33,499 INFO: Microblog startup [in /home/pazuzu71/microblog/app/__init__.py:45]
 2021-11-06 19:23:57,468 INFO: Microblog startup [in /home/pazuzu71/microblog/app/__init__.py:47]
+2021-11-06 19:39:30,075 INFO: Microblog startup [in /home/pazuzu71/microblog/app/__init__.py:49]
